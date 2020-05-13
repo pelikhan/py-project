@@ -1,3 +1,1 @@
-
-basic.show_string("Hello!")
-
+basic.show_string(":)")

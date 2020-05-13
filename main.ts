@@ -1,1 +1,1 @@
-basic.showString("Hello!")
+basic.showString(":)")
